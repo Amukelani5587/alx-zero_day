@@ -1,1 +1,1 @@
-#!/bin/school "School"
+#!/bin/school echo "The School is Open!"
